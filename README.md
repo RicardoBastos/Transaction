@@ -1,6 +1,6 @@
 <br>
 
-<p align="center" background="blue">
+<p align="center" style="background-color: violet">
     <img alt="Rocketbox" src="https://github.com/RicardoBastos/transaction/blob/master/front/src/assets/logo.svg" />
 </p>
 
