@@ -1,6 +1,6 @@
 <br>
 
-<p align="center">
+<p align="center" background="blue">
     <img alt="Rocketbox" src="https://github.com/RicardoBastos/transaction/blob/master/front/src/assets/logo.svg" />
 </p>
 
@@ -82,9 +82,8 @@ $ yarn start
 
 ```
 
-<p align="center">
 Developed with ♥ by Ricardo Bastos :wave: [Get in touch!](https://www.linkedin.com/in/ricardo-bastos-975592b0/)
-</p>
+
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
 [vc]: https://code.visualstudio.com/
