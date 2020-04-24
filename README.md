@@ -1,7 +1,7 @@
 <br>
 
 <p align="center"'>
-    <img alt="Rocketbox" src="https://github.com/RicardoBastos/transaction/blob/master/front/src/assets/logo.svg" />
+    <img width="300px" alt="Rocketbox" src="https://github.com/RicardoBastos/transaction/blob/master/front/src/assets/logo.svg" />
 </p>
 
 <br>
